@@ -1,5 +1,6 @@
 # Focused Crawler
 pip install -r requirements.txt
+
 ##Introduction
 This is a primitive focused crawler in Python that attempts to crawl web pages on a particular topic. Given a query(a set of keywords) and a number **_n_** provided by a user, the crawler would contact a Google search engine API and get the top-10 results for this query, called the **starting pages**. Then the crawl from the starting pages using a **focused strategy** until a total of n pages being collected, with most of these pages being relevant to the query/topic. Each page would be crawled only once, and stored in a file.
 ##How to run
