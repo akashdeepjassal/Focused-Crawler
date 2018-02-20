@@ -1,0 +1,774 @@
+2016-09-22 15:09:22-DEBUG-__main__(downloader.py:35): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: 0.0 KB  
+2016-09-22 15:09:22-DEBUG-__main__(downloader.py:35): http://httpstat.us/200 Response Code: 200 Size: 0.006 KB  
+2016-09-22 15:13:40-INFO-googleapiclient.discovery(discovery.py:259): URL being requested: GET https://www.googleapis.com/discovery/v1/apis/customsearch/v1/rest 
+2016-09-22 15:13:40-INFO-googleapiclient.discovery(discovery.py:838): URL being requested: GET https://www.googleapis.com/customsearch/v1?key=AIzaSyBsx7wuJfoHIA9VsWayDFZW-w7APu-4gps&alt=json&cx=012502276015408778302%3Aaanpptkeffi&q=Hillary 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: https://www.hillaryclinton.com/ 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: https://twitter.com/hillaryclinton?lang=en 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: https://en.wikipedia.org/wiki/Hillary_Clinton 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: http://www.thegatewaypundit.com/2016/08/hillarys-taking-weekends-off/ 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: http://www.politico.com/magazine/story/2014/05/hillary-clinton-media-105901 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: https://hillaryspeeches.com/scheduled-events/ 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: https://www.facebook.com/hillaryclinton/ 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: http://www.rollingstone.com/politics/features/how-hillary-clinton-became-a-vessel-for-americas-fury-w440914 
+2016-09-22 15:13:40-DEBUG-__main__(crawler.py:34): Enqueued: https://shop.hillaryclinton.com/ 
+2016-09-22 18:19:47-DEBUG-__main__(downloader.py:35): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: 0.0 KB  
+2016-09-22 18:19:47-DEBUG-__main__(downloader.py:35): http://httpstat.us/200 Response Code: 200 Size: 0.006 KB  
+2016-09-22 18:21:56-DEBUG-__main__(downloader.py:35): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: 0.0 KB  
+2016-09-22 18:21:56-DEBUG-__main__(downloader.py:35): http://httpstat.us/200 Response Code: 200 Size: 0.006 KB  
+2016-09-22 18:49:43-DEBUG-__main__(downloader.py:39): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 18:49:44-DEBUG-__main__(downloader.py:39): http://httpstat.us/200 Response Code: 200 Size: 0.006 KB  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/200 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/404 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/503 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/201 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/401 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/501 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/202 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/402 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/502 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/203 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/403 Unexpected error happened!  
+2016-09-22 19:25:54-ERROR-__main__(downloader.py:56): http://httpstat.us/504 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/200 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/404 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/503 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/201 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/401 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/501 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/202 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/402 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/502 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/203 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/403 Unexpected error happened!  
+2016-09-22 19:28:10-ERROR-__main__(downloader.py:56): http://httpstat.us/504 Unexpected error happened!  
+2016-09-22 19:32:42-DEBUG-__main__(downloader.py:35): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 
+2016-09-22 19:32:43-DEBUG-__main__(downloader.py:35): http://httpstat.us/200 Response Code: 200 
+2016-09-22 19:44:32-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:44:33-DEBUG-__main__(downloader.py:46): http://httpstat.us/200 Response Code: 200 Size: 0.006 KB  
+2016-09-22 19:46:24-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:46:25-ERROR-__main__(downloader.py:60): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 19:47:23-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:47:23-ERROR-__main__(downloader.py:61): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 19:47:50-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:47:50-ERROR-__main__(downloader.py:61): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 19:48:10-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:48:26-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:48:27-ERROR-__main__(downloader.py:61): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 19:49:50-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:49:50-DEBUG-__main__(downloader.py:46): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 19:50:32-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:50:33-ERROR-__main__(downloader.py:61): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 19:50:33-ERROR-__main__(downloader.py:56): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 19:51:44-ERROR-__main__(downloader.py:56): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 19:52:15-DEBUG-__main__(downloader.py:46): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 19:52:16-DEBUG-__main__(downloader.py:46): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 19:52:16-ERROR-__main__(downloader.py:57): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:08:04-ERROR-__main__(downloader.py:62): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 20:08:04-DEBUG-__main__(downloader.py:46): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:08:05-ERROR-__main__(downloader.py:57): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:10:43-ERROR-__main__(downloader.py:62): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 20:10:43-DEBUG-__main__(downloader.py:46): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:10:44-ERROR-__main__(downloader.py:57): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:11:37-ERROR-__main__(downloader.py:64): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 20:11:37-DEBUG-__main__(downloader.py:48): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:11:37-ERROR-__main__(downloader.py:59): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:20:36-DEBUG-__main__(downloader.py:52): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:20:36-DEBUG-__main__(downloader.py:52): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:20:37-ERROR-__main__(downloader.py:63): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:23:13-DEBUG-__main__(downloader.py:52): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:23:14-DEBUG-__main__(downloader.py:52): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:23:14-ERROR-__main__(downloader.py:63): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:29:34-ERROR-__main__(downloader.py:69): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 20:29:35-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:29:35-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:30:58-DEBUG-__main__(downloader.py:53): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:30:58-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:30:58-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:32:47-DEBUG-__main__(downloader.py:53): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:32:48-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:32:48-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:33:26-DEBUG-__main__(downloader.py:53): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:33:27-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:33:27-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:34:32-DEBUG-__main__(downloader.py:53): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:34:32-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:34:32-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:37:25-DEBUG-__main__(downloader.py:53): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:37:25-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:37:26-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:39:56-DEBUG-__main__(downloader.py:53): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:39:56-DEBUG-__main__(downloader.py:53): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:39:56-ERROR-__main__(downloader.py:64): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:50:34-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:50:34-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:50:35-ERROR-__main__(downloader.py:67): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:50:52-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:50:52-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:50:52-ERROR-__main__(downloader.py:67): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:51:05-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:51:06-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:51:06-ERROR-__main__(downloader.py:67): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:57:37-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:57:37-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:57:37-ERROR-__main__(downloader.py:67): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 20:58:05-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 20:58:06-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 20:58:06-ERROR-__main__(downloader.py:67): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:51:42-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:51:42-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 21:51:42-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:51:43-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 21:51:43-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:53:14-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:53:15-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 21:53:15-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:53:15-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 21:53:15-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:55:11-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:55:12-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 21:55:12-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:55:13-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 21:55:13-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:56:12-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:56:12-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 21:56:12-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:56:12-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 21:56:13-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:57:26-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:57:26-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:57:27-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:57:44-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:57:44-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 21:57:44-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:57:45-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 21:57:45-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-22 21:59:17-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-22 21:59:18-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-22 21:59:18-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-22 21:59:18-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-22 21:59:18-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 13:10:12-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 13:10:12-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 13:10:13-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 13:10:13-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-23 13:10:13-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 13:14:50-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 13:14:50-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 13:14:51-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 13:14:51-ERROR-__main__(downloader.py:75): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-23 13:14:51-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 13:20:26-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 13:20:26-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 13:20:56-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 13:24:07-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 13:24:08-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 13:24:08-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 13:58:22-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 13:58:22-ERROR-__main__(downloader.py:73): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 13:58:23-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 13:58:23-ERROR-__main__(downloader.py:73): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-23 13:58:24-ERROR-__main__(downloader.py:68): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 14:02:09-DEBUG-__main__(downloader.py:56): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:02:09-ERROR-__main__(downloader.py:73): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 14:02:09-DEBUG-__main__(downloader.py:56): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 14:02:09-ERROR-__main__(downloader.py:73): http://infolab.stanford.edu/pub/papers/google.pdf Unexpected error happened!  
+2016-09-23 14:02:10-ERROR-__main__(downloader.py:68): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 14:03:21-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:03:22-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 14:03:22-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 14:03:22-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 14:04:09-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:04:09-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 14:04:10-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 14:04:10-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 14:05:15-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:05:15-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 14:05:15-DEBUG-__main__(downloader.py:58): http://infolab.stanford.edu/pub/papers/google.pdf Response Code: 200 Unwanted file type, URL discarded  
+2016-09-23 14:05:15-ERROR-__main__(downloader.py:70): http://httpstat.us/404 Response Code: 404 Not Found 
+2016-09-23 14:25:10-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:25:10-ERROR-__main__(downloader.py:75): https://www.tutorialspoint.com/http/http_header_fields.htm Unexpected error happened!  
+2016-09-23 14:25:10-ERROR-__main__(downloader.py:70): http://stackoverflow.com/questions/27747288/python-name-os-is-not-defined-even-though-it-is-explicitly-imported Response Code: 404 Not Found 
+2016-09-23 14:25:30-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:25:30-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:25:30-ERROR-__main__(downloader.py:70): http://stackoverflow.com/questions/27747288/python-name-os-is-not-defined-even-though-it-is-explicitly-imported Response Code: 404 Not Found 
+2016-09-23 14:29:03-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:29:03-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:29:03-DEBUG-__main__(downloader.py:45): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 14:29:03-DEBUG-__main__(downloader.py:58): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 14:29:03-ERROR-__main__(downloader.py:70): http://stackoverflow.com/questions/27747288/python-name-os-is-not-defined-even-though-it-is-explicitly-imported Response Code: 404 Not Found 
+2016-09-23 14:55:19-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:55:19-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:55:19-DEBUG-__main__(downloader.py:45): https://www.tutorialspoint.com/http/http_parameters.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:55:19-DEBUG-__main__(downloader.py:58): https://www.tutorialspoint.com/http/http_parameters.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 14:55:20-DEBUG-__main__(downloader.py:45): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 14:55:20-DEBUG-__main__(downloader.py:58): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 14:55:20-ERROR-__main__(downloader.py:70): http://stackoverflow.com/questions/27747288/python-name-os-is-not-defined-even-though-it-is-explicitly-imported Response Code: 404 Not Found 
+2016-09-23 15:55:07-DEBUG-__main__(downloader.py:44): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 15:55:07-DEBUG-__main__(downloader.py:52): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 15:55:08-DEBUG-__main__(downloader.py:44): https://www.tutorialspoint.com/http/http_parameters.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 15:55:08-DEBUG-__main__(downloader.py:52): https://www.tutorialspoint.com/http/http_parameters.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 15:55:08-DEBUG-__main__(downloader.py:44): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 15:55:09-DEBUG-__main__(downloader.py:52): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 15:55:09-ERROR-__main__(downloader.py:64): http://stackoverflow.com/questions/27747288/python-name-os-is-not-defined-even-though-it-is-explicitly-imported Response Code: 404 Not Found 
+2016-09-23 18:52:09-DEBUG-__main__(downloader.py:44): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 18:52:09-DEBUG-__main__(downloader.py:52): https://www.tutorialspoint.com/http/http_header_fields.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 18:52:10-DEBUG-__main__(downloader.py:44): https://www.tutorialspoint.com/http/http_parameters.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 18:52:10-DEBUG-__main__(downloader.py:52): https://www.tutorialspoint.com/http/http_parameters.htm Response Code: 200 Size: Unknown KB  
+2016-09-23 18:52:10-DEBUG-__main__(downloader.py:44): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 18:52:10-DEBUG-__main__(downloader.py:52): http://cs.wellesley.edu/~qtw/lectures/webcrawl.html Response Code: 200 Size: 61.532 KB  
+2016-09-23 18:52:10-ERROR-__main__(downloader.py:64): http://stackoverflow.com/questions/27747288/python-name-os-is-not-defined-even-though-it-is-explicitly-imported Response Code: 404 Not Found 
+2016-09-23 18:56:44-INFO-googleapiclient.discovery(discovery.py:259): URL being requested: GET https://www.googleapis.com/discovery/v1/apis/customsearch/v1/rest 
+2016-09-23 18:56:44-INFO-googleapiclient.discovery(discovery.py:838): URL being requested: GET https://www.googleapis.com/customsearch/v1?key=AIzaSyBsx7wuJfoHIA9VsWayDFZW-w7APu-4gps&cx=012502276015408778302%3Aaanpptkeffi&alt=json&q=Hillary 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: https://www.hillaryclinton.com/ 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: https://en.wikipedia.org/wiki/Hillary_Clinton 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: https://twitter.com/hillaryclinton?lang=en 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: http://www.thegatewaypundit.com/2016/08/hillarys-taking-weekends-off/ 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: http://www.slate.com/articles/news_and_politics/cover_story/2016/07/the_people_who_hate_hillary_clinton_the_most.html 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: http://www.politico.com/magazine/story/2014/05/hillary-clinton-media-105901 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: https://www.facebook.com/hillaryclinton/ 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: http://observer.com/2016/09/exclusive-hillary-clinton-campaign-systematically-overcharging-poorest-donors/ 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: https://hillaryspeeches.com/scheduled-events/ 
+2016-09-23 18:56:45-DEBUG-__main__(crawler.py:35): Enqueued: https://shop.hillaryclinton.com/ 
+2018-02-20 07:54:42-WARNING-googleapiclient.discovery_cache(__init__.py:44): file_cache is unavailable when using oauth2client >= 4.0.0 
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 36, in autodetect
+    from google.appengine.api import memcache
+ModuleNotFoundError: No module named 'google.appengine'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 41, in autodetect
+    from . import file_cache
+  File "C:\ProgramData\Anaconda3\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    'file_cache is unavailable when using oauth2client >= 4.0.0')
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0
+2018-02-20 07:54:42-INFO-googleapiclient.discovery(discovery.py:274): URL being requested: GET https://www.googleapis.com/discovery/v1/apis/customsearch/v1/rest 
+2018-02-20 07:54:42-INFO-googleapiclient.discovery(discovery.py:868): URL being requested: GET https://www.googleapis.com/customsearch/v1?q=New+York+pollution&cx=012502276015408778302%3Aaanpptkeffi&key=AIzaSyBsx7wuJfoHIA9VsWayDFZW-w7APu-4gps&alt=json 
+2018-02-20 07:54:44-DEBUG-__main__(crawler.py:54): Enqueued: https://en.wikipedia.org/wiki/Environmental_issues_in_New_York_City 
+2018-02-20 07:54:44-DEBUG-__main__(crawler.py:54): Enqueued: http://on.nyc.gov/airpollution 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: http://blogs.ei.columbia.edu/2016/06/06/air-quality-pollution-new-york-city/ 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: https://www.nytimes.com/2018/02/15/us/politics/epa-pollution-loophole-glider-trucks.html 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: http://www.businessinsider.com/photos-new-york-city-before-epa-documerica-2017-10 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: http://www.nydailynews.com/new-york/new-york-city-air-pollution-all-time-data-reveals-article-1.3077440 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: http://aqicn.org/map/usa/newyork/ 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: https://qz.com/1167560/new-york-is-suing-rust-belt-states-for-air-pollution-that-blew-east/ 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: https://www.numbeo.com/pollution/in/New-York 
+2018-02-20 07:54:45-DEBUG-__main__(crawler.py:54): Enqueued: https://www.dec.ny.gov/chemical/281.html 
+2018-02-20 07:54:54-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Environmental_issues_in_New_York_City Response Code: 200 Size: 124.699 KB  
+2018-02-20 07:54:54-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Environmental_issues_in_New_York_City Response Code: 200 Size: 124.699 KB  has been written to disks! 
+2018-02-20 07:54:54-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:54:54-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(1384 unique tokens: ['city', 'environmental', 'issues', 'new', 'wikipedia']...) from 949 documents (total 3768 corpus positions) 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:54:54-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (1384, 101) action matrix 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (1384, 101) action matrix 
+2018-02-20 07:54:54-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1384, 101) dense matrix 
+2018-02-20 07:54:54-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:54:54-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1384, 101) dense matrix 
+2018-02-20 07:54:54-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1384, 101) dense matrix 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 949) matrix 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 83.847% of energy spectrum) 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #949 
+2018-02-20 07:54:54-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(23.180): 0.565*"city" + 0.452*"new" + 0.383*"york" + 0.224*"s" + 0.160*"water" + 0.137*"has" + 0.091*"at" + 0.088*"as" + 0.087*"that" + 0.086*"environmental" 
+2018-02-20 07:54:54-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:54:54-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 949 documents and 1 features 
+2018-02-20 07:54:54-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/949 
+2018-02-20 07:55:09-DEBUG-downloader(downloader.py:43): http://on.nyc.gov/airpollution Response Code: 200 Size: Unknown KB  
+2018-02-20 07:55:09-DEBUG-downloader(downloader.py:46): http://on.nyc.gov/airpollution Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:55:09-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:55:09-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(382 unique tokens: ['air', 'pollution', 'nyc', 'resources', 'mayor']...) from 168 documents (total 710 corpus positions) 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:55:09-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (382, 101) action matrix 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (382, 101) action matrix 
+2018-02-20 07:55:09-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (382, 101) dense matrix 
+2018-02-20 07:55:09-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:55:09-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (382, 101) dense matrix 
+2018-02-20 07:55:09-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (382, 101) dense matrix 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 168) matrix 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 67.297% of energy spectrum) 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #168 
+2018-02-20 07:55:09-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(16.412): 0.558*"air" + 0.452*"city" + 0.248*"quality" + 0.169*"s" + 0.165*"pollution" + 0.150*"new" + 0.125*"code" + 0.116*"by" + 0.114*"environmental" + 0.113*"significant" 
+2018-02-20 07:55:09-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:55:09-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 168 documents and 1 features 
+2018-02-20 07:55:09-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/168 
+2018-02-20 07:55:13-DEBUG-downloader(downloader.py:43): http://blogs.ei.columbia.edu/2016/06/06/air-quality-pollution-new-york-city/ Response Code: 200 Size: Unknown KB  
+2018-02-20 07:55:13-DEBUG-downloader(downloader.py:46): http://blogs.ei.columbia.edu/2016/06/06/air-quality-pollution-new-york-city/ Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:55:13-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:55:13-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(857 unique tokens: ['air', 'by', 'city', 'new', 'numbers']...) from 370 documents (total 1340 corpus positions) 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:55:13-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (857, 101) action matrix 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (857, 101) action matrix 
+2018-02-20 07:55:13-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (857, 101) dense matrix 
+2018-02-20 07:55:13-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:55:13-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (857, 101) dense matrix 
+2018-02-20 07:55:13-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (857, 101) dense matrix 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 370) matrix 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 86.035% of energy spectrum) 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #370 
+2018-02-20 07:55:13-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(12.106): 0.496*"air" + 0.441*"city" + 0.182*"new" + 0.180*"york" + 0.145*"be" + 0.140*"that" + 0.127*"it" + 0.120*"quality" + 0.118*"pollution" + 0.117*"asthma" 
+2018-02-20 07:55:13-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:55:13-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 370 documents and 1 features 
+2018-02-20 07:55:13-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/370 
+2018-02-20 07:55:17-DEBUG-downloader(downloader.py:43): https://www.nytimes.com/2018/02/15/us/politics/epa-pollution-loophole-glider-trucks.html Response Code: 200 Size: 123.344 KB  
+2018-02-20 07:55:17-DEBUG-downloader(downloader.py:46): https://www.nytimes.com/2018/02/15/us/politics/epa-pollution-loophole-glider-trucks.html Response Code: 200 Size: 123.344 KB  has been written to disks! 
+2018-02-20 07:55:17-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:55:17-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(1047 unique tokens: ['at', 'can', 'e', 'help', 'how']...) from 370 documents (total 2673 corpus positions) 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:55:17-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (1047, 101) action matrix 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (1047, 101) action matrix 
+2018-02-20 07:55:17-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1047, 101) dense matrix 
+2018-02-20 07:55:17-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:55:17-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1047, 101) dense matrix 
+2018-02-20 07:55:17-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1047, 101) dense matrix 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 370) matrix 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 89.349% of energy spectrum) 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #370 
+2018-02-20 07:55:17-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(16.340): 0.356*"that" + 0.345*"trucks" + 0.251*"fitzgerald" + 0.228*"with" + 0.217*"said" + 0.189*"from" + 0.169*"emissions" + 0.167*"s" + 0.165*"by" + 0.164*"mr" 
+2018-02-20 07:55:17-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:55:17-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 370 documents and 1 features 
+2018-02-20 07:55:17-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/370 
+2018-02-20 07:56:00-ERROR-__main__(crawler.py:74): http://www.businessinsider.com/photos-new-york-city-before-epa-documerica-2017-10 is excluded due to protocol 
+2018-02-20 07:56:03-DEBUG-downloader(downloader.py:43): http://www.nydailynews.com/new-york/new-york-city-air-pollution-all-time-data-reveals-article-1.3077440 Response Code: 200 Size: 113.4 KB  
+2018-02-20 07:56:03-DEBUG-downloader(downloader.py:46): http://www.nydailynews.com/new-york/new-york-city-air-pollution-all-time-data-reveals-article-1.3077440 Response Code: 200 Size: 113.4 KB  has been written to disks! 
+2018-02-20 07:56:03-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:03-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(364 unique tokens: ['air', 'all', 'at', 'daily', 'data']...) from 193 documents (total 611 corpus positions) 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:03-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (364, 101) action matrix 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (364, 101) action matrix 
+2018-02-20 07:56:03-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (364, 101) dense matrix 
+2018-02-20 07:56:03-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:03-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (364, 101) dense matrix 
+2018-02-20 07:56:03-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (364, 101) dense matrix 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 193) matrix 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 87.893% of energy spectrum) 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #193 
+2018-02-20 07:56:03-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(8.420): 0.431*"air" + 0.358*"pollution" + 0.251*"city" + 0.190*"that" + 0.187*"we" + 0.179*"federal" + 0.165*"improvements" + 0.124*"report" + 0.115*"department" + 0.108*"heart" 
+2018-02-20 07:56:03-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:03-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 193 documents and 1 features 
+2018-02-20 07:56:03-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/193 
+2018-02-20 07:56:06-DEBUG-downloader(downloader.py:43): http://aqicn.org/map/usa/newyork/ Response Code: 200 Size: Unknown KB  
+2018-02-20 07:56:07-DEBUG-downloader(downloader.py:46): http://aqicn.org/map/usa/newyork/ Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:56:07-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:07-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(1186 unique tokens: ['air', 'index', 'map', 'new', 'pollution']...) from 2639 documents (total 2301 corpus positions) 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:07-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (1186, 101) action matrix 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (1186, 101) action matrix 
+2018-02-20 07:56:07-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1186, 101) dense matrix 
+2018-02-20 07:56:07-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:07-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1186, 101) dense matrix 
+2018-02-20 07:56:07-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1186, 101) dense matrix 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 2639) matrix 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 84.830% of energy spectrum) 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #2639 
+2018-02-20 07:56:07-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(13.391): 0.343*"should" + 0.343*"outdoor" + 0.343*"exertion" + 0.327*"children" + 0.208*"people" + 0.208*"prolonged" + 0.205*"with" + 0.204*"active" + 0.204*"asthma" + 0.204*"adults" 
+2018-02-20 07:56:07-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:07-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 2639 documents and 1 features 
+2018-02-20 07:56:07-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/2639 
+2018-02-20 07:56:07-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/2639 
+2018-02-20 07:56:07-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/2639 
+2018-02-20 07:56:09-DEBUG-downloader(downloader.py:43): https://qz.com/1167560/new-york-is-suing-rust-belt-states-for-air-pollution-that-blew-east/ Response Code: 200 Size: Unknown KB  
+2018-02-20 07:56:09-DEBUG-downloader(downloader.py:46): https://qz.com/1167560/new-york-is-suing-rust-belt-states-for-air-pollution-that-blew-east/ Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:56:09-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:09-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(299 unique tokens: ['air', 'belt', 'blew', 'east', 'new']...) from 61 documents (total 486 corpus positions) 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:09-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (299, 101) action matrix 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (299, 101) action matrix 
+2018-02-20 07:56:09-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (299, 101) dense matrix 
+2018-02-20 07:56:09-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:09-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (299, 101) dense matrix 
+2018-02-20 07:56:09-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (299, 101) dense matrix 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 61) matrix 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 76.674% of energy spectrum) 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #61 
+2018-02-20 07:56:09-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(11.368): 0.377*"pollution" + 0.338*"states" + 0.260*"that" + 0.210*"their" + 0.189*"new" + 0.177*"were" + 0.163*"from" + 0.159*"wind" + 0.146*"other" + 0.144*"rust" 
+2018-02-20 07:56:09-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:09-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 61 documents and 1 features 
+2018-02-20 07:56:09-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/61 
+2018-02-20 07:56:13-DEBUG-downloader(downloader.py:43): https://www.numbeo.com/pollution/in/New-York Response Code: 200 Size: Unknown KB  
+2018-02-20 07:56:14-DEBUG-downloader(downloader.py:46): https://www.numbeo.com/pollution/in/New-York Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:56:14-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:14-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(162 unique tokens: ['new', 'ny', 'pollution', 'york', 'are']...) from 224 documents (total 515 corpus positions) 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:14-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (162, 101) action matrix 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (162, 101) action matrix 
+2018-02-20 07:56:14-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (162, 101) dense matrix 
+2018-02-20 07:56:14-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:14-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (162, 101) dense matrix 
+2018-02-20 07:56:14-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (162, 101) dense matrix 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 224) matrix 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 86.895% of energy spectrum) 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #224 
+2018-02-20 07:56:14-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(8.420): 0.624*"new" + 0.527*"york" + 0.494*"ny" + 0.177*"pollution" + 0.109*"jersey" + 0.093*"prices" + 0.085*"states" + 0.085*"united" + 0.038*"index" + 0.037*"health" 
+2018-02-20 07:56:14-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:14-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 224 documents and 1 features 
+2018-02-20 07:56:14-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/224 
+2018-02-20 07:56:20-DEBUG-downloader(downloader.py:43): https://www.dec.ny.gov/chemical/281.html Response Code: 200 Size: 24.808 KB  
+2018-02-20 07:56:20-DEBUG-downloader(downloader.py:46): https://www.dec.ny.gov/chemical/281.html Response Code: 200 Size: 24.808 KB  has been written to disks! 
+2018-02-20 07:56:20-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:20-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(411 unique tokens: ['air', 'conservation', 'dept', 'environmental', 'nys']...) from 190 documents (total 823 corpus positions) 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:20-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (411, 101) action matrix 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (411, 101) action matrix 
+2018-02-20 07:56:20-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (411, 101) dense matrix 
+2018-02-20 07:56:20-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:20-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (411, 101) dense matrix 
+2018-02-20 07:56:20-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (411, 101) dense matrix 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 190) matrix 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 81.977% of energy spectrum) 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #190 
+2018-02-20 07:56:20-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(12.757): 0.587*"air" + 0.363*"pollution" + 0.303*"state" + 0.218*"that" + 0.203*"from" + 0.157*"pollutants" + 0.154*"control" + 0.126*"about" + 0.120*"federal" + 0.104*"programs" 
+2018-02-20 07:56:20-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:20-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 190 documents and 1 features 
+2018-02-20 07:56:20-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/190 
+2018-02-20 07:56:24-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Central_Park Response Code: 200 Size: 502.185 KB  
+2018-02-20 07:56:24-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Central_Park Response Code: 200 Size: 502.185 KB  has been written to disks! 
+2018-02-20 07:56:25-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:25-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(3495 unique tokens: ['central', 'park', 'wikipedia', 'encyclopedia', 'free']...) from 3520 documents (total 10947 corpus positions) 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:25-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (3495, 101) action matrix 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (3495, 101) action matrix 
+2018-02-20 07:56:25-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (3495, 101) dense matrix 
+2018-02-20 07:56:25-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:25-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (3495, 101) dense matrix 
+2018-02-20 07:56:25-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (3495, 101) dense matrix 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 3520) matrix 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 83.875% of energy spectrum) 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #3520 
+2018-02-20 07:56:25-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(31.808): 0.730*"park" + 0.385*"central" + 0.239*"s" + 0.227*"was" + 0.141*"by" + 0.108*"new" + 0.102*"conservancy" + 0.098*"as" + 0.087*"city" + 0.087*"with" 
+2018-02-20 07:56:25-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:25-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 3520 documents and 1 features 
+2018-02-20 07:56:25-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/3520 
+2018-02-20 07:56:25-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/3520 
+2018-02-20 07:56:25-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/3520 
+2018-02-20 07:56:25-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #3000/3520 
+2018-02-20 07:56:30-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Monaco Response Code: 200 Size: 578.148 KB  
+2018-02-20 07:56:31-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Monaco Response Code: 200 Size: 578.148 KB  has been written to disks! 
+2018-02-20 07:56:31-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:31-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(3194 unique tokens: ['monaco', 'wikipedia', 'encyclopedia', 'free', 'from']...) from 5184 documents (total 10845 corpus positions) 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:31-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (3194, 101) action matrix 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (3194, 101) action matrix 
+2018-02-20 07:56:31-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (3194, 101) dense matrix 
+2018-02-20 07:56:31-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:31-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (3194, 101) dense matrix 
+2018-02-20 07:56:31-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (3194, 101) dense matrix 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 5184) matrix 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 87.806% of energy spectrum) 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #5184 
+2018-02-20 07:56:31-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(25.392): 0.927*"monaco" + 0.139*"s" + 0.091*"with" + 0.077*"on" + 0.074*"france" + 0.070*"principality" + 0.069*"from" + 0.068*"that" + 0.066*"has" + 0.065*"by" 
+2018-02-20 07:56:31-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:31-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 5184 documents and 1 features 
+2018-02-20 07:56:31-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/5184 
+2018-02-20 07:56:31-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/5184 
+2018-02-20 07:56:31-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/5184 
+2018-02-20 07:56:31-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #3000/5184 
+2018-02-20 07:56:31-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #4000/5184 
+2018-02-20 07:56:31-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #5000/5184 
+2018-02-20 07:56:39-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/New_York_City Response Code: 200 Size: 1305.37 KB  
+2018-02-20 07:56:39-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/New_York_City Response Code: 200 Size: 1305.37 KB  has been written to disks! 
+2018-02-20 07:56:41-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:41-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #10000 to Dictionary(4951 unique tokens: ['city', 'new', 'wikipedia', 'york', 'encyclopedia']...) 
+2018-02-20 07:56:41-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(5865 unique tokens: ['city', 'new', 'wikipedia', 'york', 'encyclopedia']...) from 12126 documents (total 27217 corpus positions) 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:41-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (5865, 101) action matrix 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (5865, 101) action matrix 
+2018-02-20 07:56:41-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (5865, 101) dense matrix 
+2018-02-20 07:56:41-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:41-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (5865, 101) dense matrix 
+2018-02-20 07:56:41-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (5865, 101) dense matrix 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 12126) matrix 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 79.096% of energy spectrum) 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #12126 
+2018-02-20 07:56:41-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(50.851): 0.652*"new" + 0.590*"york" + 0.409*"city" + 0.148*"s" + 0.048*"from" + 0.042*"world" + 0.041*"times" + 0.041*"as" + 0.039*"by" + 0.033*"with" 
+2018-02-20 07:56:41-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:41-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 12126 documents and 1 features 
+2018-02-20 07:56:41-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/12126 
+2018-02-20 07:56:41-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #3000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #4000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #5000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #6000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #7000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #8000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #9000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #10000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #11000/12126 
+2018-02-20 07:56:42-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #12000/12126 
+2018-02-20 07:56:46-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Transportation_in_New_York_City Response Code: 200 Size: 422.747 KB  
+2018-02-20 07:56:46-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Transportation_in_New_York_City Response Code: 200 Size: 422.747 KB  has been written to disks! 
+2018-02-20 07:56:47-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:47-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(2325 unique tokens: ['city', 'new', 'transportation', 'wikipedia', 'york']...) from 3296 documents (total 9551 corpus positions) 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:47-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (2325, 101) action matrix 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (2325, 101) action matrix 
+2018-02-20 07:56:47-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2325, 101) dense matrix 
+2018-02-20 07:56:47-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:47-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2325, 101) dense matrix 
+2018-02-20 07:56:47-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2325, 101) dense matrix 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 3296) matrix 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 86.936% of energy spectrum) 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #3296 
+2018-02-20 07:56:47-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(27.628): 0.635*"new" + 0.520*"york" + 0.398*"city" + 0.161*"s" + 0.111*"transit" + 0.100*"by" + 0.097*"subway" + 0.076*"transportation" + 0.076*"jersey" + 0.066*"on" 
+2018-02-20 07:56:47-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:47-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 3296 documents and 1 features 
+2018-02-20 07:56:47-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/3296 
+2018-02-20 07:56:47-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/3296 
+2018-02-20 07:56:47-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/3296 
+2018-02-20 07:56:47-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #3000/3296 
+2018-02-20 07:56:51-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Hudson_River Response Code: 200 Size: 386.862 KB  
+2018-02-20 07:56:51-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Hudson_River Response Code: 200 Size: 386.862 KB  has been written to disks! 
+2018-02-20 07:56:51-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:52-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(2640 unique tokens: ['hudson', 'river', 'wikipedia', 'encyclopedia', 'free']...) from 3753 documents (total 8570 corpus positions) 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:52-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (2640, 101) action matrix 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (2640, 101) action matrix 
+2018-02-20 07:56:52-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2640, 101) dense matrix 
+2018-02-20 07:56:52-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:52-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2640, 101) dense matrix 
+2018-02-20 07:56:52-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2640, 101) dense matrix 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 3753) matrix 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 85.743% of energy spectrum) 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #3753 
+2018-02-20 07:56:52-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(26.369): -0.704*"river" + -0.537*"hudson" + -0.196*"new" + -0.149*"york" + -0.145*"as" + -0.095*"from" + -0.091*"s" + -0.087*"was" + -0.077*"on" + -0.073*"at" 
+2018-02-20 07:56:52-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:52-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 3753 documents and 1 features 
+2018-02-20 07:56:52-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/3753 
+2018-02-20 07:56:52-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/3753 
+2018-02-20 07:56:52-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/3753 
+2018-02-20 07:56:52-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #3000/3753 
+2018-02-20 07:56:53-DEBUG-__main__(crawler.py:80): https://en.wikipedia.org/wiki/Transportation_in_New_York_City Has been visited before!  
+2018-02-20 07:56:57-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Gasoline_consumption Response Code: 200 Size: Unknown KB  
+2018-02-20 07:56:57-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Gasoline_consumption Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:56:57-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:56:57-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(1932 unique tokens: ['automobiles', 'economy', 'fuel', 'wikipedia', 'encyclopedia']...) from 2037 documents (total 7501 corpus positions) 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:56:57-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (1932, 101) action matrix 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (1932, 101) action matrix 
+2018-02-20 07:56:57-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1932, 101) dense matrix 
+2018-02-20 07:56:57-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:56:57-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1932, 101) dense matrix 
+2018-02-20 07:56:57-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1932, 101) dense matrix 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 2037) matrix 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 86.183% of energy spectrum) 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #2037 
+2018-02-20 07:56:57-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(30.520): 0.517*"fuel" + 0.358*"km" + 0.238*"economy" + 0.163*"vehicle" + 0.160*"at" + 0.159*"mpg" + 0.146*"are" + 0.143*"l" + 0.142*"h" + 0.125*"consumption" 
+2018-02-20 07:56:57-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:56:57-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 2037 documents and 1 features 
+2018-02-20 07:56:57-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/2037 
+2018-02-20 07:56:57-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/2037 
+2018-02-20 07:56:57-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/2037 
+2018-02-20 07:57:00-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Greenhouse_gas Response Code: 200 Size: 481.372 KB  
+2018-02-20 07:57:00-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Greenhouse_gas Response Code: 200 Size: 481.372 KB  has been written to disks! 
+2018-02-20 07:57:01-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:57:01-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(2601 unique tokens: ['gas', 'greenhouse', 'wikipedia', 'encyclopedia', 'free']...) from 4289 documents (total 11638 corpus positions) 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:57:01-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (2601, 101) action matrix 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (2601, 101) action matrix 
+2018-02-20 07:57:01-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2601, 101) dense matrix 
+2018-02-20 07:57:01-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:57:01-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2601, 101) dense matrix 
+2018-02-20 07:57:01-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (2601, 101) dense matrix 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 4289) matrix 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 91.369% of energy spectrum) 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #4289 
+2018-02-20 07:57:01-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(25.367): 0.360*"emissions" + 0.293*"greenhouse" + 0.267*"climate" + 0.261*"change" + 0.227*"from" + 0.216*"are" + 0.207*"on" + 0.203*"gases" + 0.160*"carbon" + 0.160*"by" 
+2018-02-20 07:57:01-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:57:01-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 4289 documents and 1 features 
+2018-02-20 07:57:01-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/4289 
+2018-02-20 07:57:01-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/4289 
+2018-02-20 07:57:01-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #2000/4289 
+2018-02-20 07:57:01-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #3000/4289 
+2018-02-20 07:57:01-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #4000/4289 
+2018-02-20 07:57:04-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Travel%2BLeisure Response Code: 200 Size: Unknown KB  
+2018-02-20 07:57:04-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Travel%2BLeisure Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:57:04-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:57:04-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(408 unique tokens: ['leisure', 'travel', 'wikipedia', 'encyclopedia', 'free']...) from 416 documents (total 736 corpus positions) 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:57:04-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (408, 101) action matrix 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (408, 101) action matrix 
+2018-02-20 07:57:04-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (408, 101) dense matrix 
+2018-02-20 07:57:04-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:57:04-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (408, 101) dense matrix 
+2018-02-20 07:57:04-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (408, 101) dense matrix 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 416) matrix 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 87.630% of energy spectrum) 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #416 
+2018-02-20 07:57:04-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(8.760): 0.604*"travel" + 0.397*"s" + 0.371*"leisure" + 0.148*"world" + 0.140*"annual" + 0.140*"cities" + 0.126*"its" + 0.116*"features" + 0.094*"u" + 0.092*"it" 
+2018-02-20 07:57:04-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:57:04-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 416 documents and 1 features 
+2018-02-20 07:57:04-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/416 
+2018-02-20 07:57:05-ERROR-__main__(crawler.py:74): https://en.wikipedia.org/w/index.php?title=Environmental_issues_in_New_York_City&action=edit&section=1 is excluded due to protocol 
+2018-02-20 07:57:08-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Population_density Response Code: 200 Size: 180.355 KB  
+2018-02-20 07:57:08-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Population_density Response Code: 200 Size: 180.355 KB  has been written to disks! 
+2018-02-20 07:57:08-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:57:08-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(1163 unique tokens: ['density', 'population', 'wikipedia', 'encyclopedia', 'free']...) from 1194 documents (total 2301 corpus positions) 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:57:08-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (1163, 101) action matrix 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (1163, 101) action matrix 
+2018-02-20 07:57:08-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1163, 101) dense matrix 
+2018-02-20 07:57:08-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:57:08-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1163, 101) dense matrix 
+2018-02-20 07:57:08-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1163, 101) dense matrix 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 1194) matrix 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 86.480% of energy spectrum) 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #1194 
+2018-02-20 07:57:08-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(13.080): 0.796*"population" + 0.405*"density" + 0.185*"by" + 0.170*"area" + 0.123*"per" + 0.091*"list" + 0.088*"human" + 0.080*"km" + 0.072*"land" + 0.072*"areas" 
+2018-02-20 07:57:08-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:57:08-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 1194 documents and 1 features 
+2018-02-20 07:57:08-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/1194 
+2018-02-20 07:57:08-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/1194 
+2018-02-20 07:57:11-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Automobile_dependence Response Code: 200 Size: Unknown KB  
+2018-02-20 07:57:11-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Automobile_dependence Response Code: 200 Size: Unknown KB  has been written to disks! 
+2018-02-20 07:57:11-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:57:11-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(719 unique tokens: ['automobile', 'dependency', 'wikipedia', 'encyclopedia', 'free']...) from 329 documents (total 1405 corpus positions) 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:57:11-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (719, 101) action matrix 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (719, 101) action matrix 
+2018-02-20 07:57:11-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (719, 101) dense matrix 
+2018-02-20 07:57:11-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:57:11-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (719, 101) dense matrix 
+2018-02-20 07:57:11-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (719, 101) dense matrix 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 329) matrix 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 90.200% of energy spectrum) 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #329 
+2018-02-20 07:57:11-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(11.411): -0.224*"use" + -0.211*"density" + -0.207*"public" + -0.188*"traffic" + -0.185*"or" + -0.178*"car" + -0.169*"more" + -0.165*"with" + -0.158*"transport" + -0.153*"urban" 
+2018-02-20 07:57:11-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:57:11-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 329 documents and 1 features 
+2018-02-20 07:57:11-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/329 
+2018-02-20 07:57:16-DEBUG-downloader(downloader.py:43): https://en.wikipedia.org/wiki/Energy_efficiency_in_transportation Response Code: 200 Size: 184.352 KB  
+2018-02-20 07:57:16-DEBUG-downloader(downloader.py:46): https://en.wikipedia.org/wiki/Energy_efficiency_in_transportation Response Code: 200 Size: 184.352 KB  has been written to disks! 
+2018-02-20 07:57:16-INFO-gensim.corpora.dictionary(dictionary.py:192): adding document #0 to Dictionary(0 unique tokens: []) 
+2018-02-20 07:57:16-INFO-gensim.corpora.dictionary(dictionary.py:199): built Dictionary(1566 unique tokens: ['efficiency', 'energy', 'transport', 'wikipedia', 'encyclopedia']...) from 1632 documents (total 5362 corpus positions) 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:318): using serial LSI version on this node 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:360): updating model with new documents 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:386): preparing a new chunk of documents 
+2018-02-20 07:57:16-DEBUG-gensim.models.lsimodel(lsimodel.py:390): converting corpus to csc format 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:674): using 100 extra samples and 2 power iterations 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:682): 1st phase: constructing (1566, 101) action matrix 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:697): orthonormalizing (1566, 101) action matrix 
+2018-02-20 07:57:16-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1566, 101) dense matrix 
+2018-02-20 07:57:16-DEBUG-gensim.models.lsimodel(lsimodel.py:701): running 2 power iterations 
+2018-02-20 07:57:16-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1566, 101) dense matrix 
+2018-02-20 07:57:16-DEBUG-gensim.matutils(matutils.py:1024): computing QR of (1566, 101) dense matrix 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:749): 2nd phase: running dense svd on (101, 1632) matrix 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:775): computing the final decomposition 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:89): keeping 1 factors (discarding 84.081% of energy spectrum) 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:411): processed documents up to #1632 
+2018-02-20 07:57:16-INFO-gensim.models.lsimodel(lsimodel.py:556): topic #0(27.163): 0.591*"energy" + 0.274*"per" + 0.214*"km" + 0.196*"fuel" + 0.177*"efficiency" + 0.146*"be" + 0.135*"than" + 0.134*"or" + 0.134*"as" + 0.131*"that" 
+2018-02-20 07:57:16-WARNING-gensim.similarities.docsim(docsim.py:490): scanning corpus to determine the number of features (consider setting `num_features` explicitly) 
+2018-02-20 07:57:16-INFO-gensim.similarities.docsim(docsim.py:507): creating matrix with 1632 documents and 1 features 
+2018-02-20 07:57:16-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #0/1632 
+2018-02-20 07:57:16-DEBUG-gensim.similarities.docsim(docsim.py:513): PROGRESS: at document #1000/1632 
